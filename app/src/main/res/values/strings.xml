@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Monthly Theme</string>
+    <string name="title_activity_thirty_days_theme_app_page">ThirtyDaysThemeAppPage</string>
+    <string name="click">Click</string>
+    <string name="day1">Day 1</string>
+    <string name="day1_summary">Start your 30 days</string>
+    <string name="day1_desc">Here we start our 30 days</string>
+    <string name="day2">Day 2</string>
+    <string name="day2_summary">Do this on the second day</string>
+    <string name="day2_desc">Visit the site and spent there at least 15 minutes</string>
+    <string name="day3">Day 3</string>
+    <string name="day3_summary">Do this on the third day</string>
+    <string name="day3_desc">Visit the site and spent there at least 15 minutes</string>
+    <string name="day4">Day 4</string>
+    <string name="day4_summary">Do this on the second day</string>
+    <string name="day4_desc">Visit the site and spent there at least 15 minutes</string>
+    <string name="day5">Day 5</string>
+    <string name="day5_summary">Do this on the second day</string>
+    <string name="day5_desc">Visit the site and spent there at least 15 minutes</string>
+    <string name="day6">Day 6</string>
+    <string name="day6_summary">Do this on the second day</string>
+    <string name="day6_desc">Visit the site and spent there at least 15 minutes</string>
+    <string name="day7">Day 7</string>
+    <string name="day7_summary">Do this on the second day</string>
+    <string name="day7_desc">Visit the site and spent there at least 15 minutes</string>
+    <string name="day8">Day 8</string>
+    <string name="day8_summary">Do this on the second day</string>
+    <string name="day8_desc">Visit the site and spent there at least 15 minutes</string>
+    <string name="day9">Day 9</string>
+    <string name="day9_summary">Do this on the second day</string>
+    <string name="day9_desc">Visit the site and spent there at least 15 minutes</string>
+    <string name="day10">Day 10</string>
+    <string name="day10_summary">Do this on the second day</string>
+    <string name="day10_desc">Visit the site and spent there at least 15 minutes</string>
+
+
+
+
+
+
+
+
+
+</resources>
